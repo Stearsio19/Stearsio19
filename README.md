@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stearsio19
 - 👀 I’m interested in web deveolpment and software development 
-- 🌱 I’m currently learning functional programming, software development
+- 🌱 I’m currently learning functional programming, software development, Database Systems, Cyber Security
 - 💞️ I’m looking to collaborate on software development as part of my uni course
 
 <!---
